@@ -1,5 +1,4 @@
-<h1 align="center"> Hey there friend, i'm Thales and it's great having you here <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="waving hand" width="30" height="30"></h1>
- 
+
 - 🎓 I'm a software engineer graduated by Driven Education [Driven](https://driven.com.br) 
 - 🚀 As a Full Stack javascript developer, i'm ready to challenge myself in creating the most amazing types of websites and social networks for startups or large companies that add value, helping change the world with the use of technology, let's do it together?
 - 💻 I'd like to share some of the cool things i created in the past 9 months or so [here](https://github.com/thalesor?tab=repositories)
