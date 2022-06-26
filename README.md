@@ -2,7 +2,7 @@
 - 🎓 I'm a software engineer graduated by Driven Education [Driven](https://driven.com.br) 
 - 🚀 As a Full Stack javascript developer, i'm ready to challenge myself in creating the most amazing types of websites and social networks for startups or large companies that add value, helping change the world with the use of technology, let's do it together?
 - 💻 I'd like to share some of the cool things i created in the past 9 months or so [here](https://github.com/thalesor?tab=repositories)
-<img align="right" alt="GIF" src="https://c.tenor.com/H3eMT7-xZrsAAAAC/ay-caramba-geez.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://c.tenor.com/H3eMT7-xZrsAAAAC/ay-caramba-geez.gif" width="450" height="270" />
 
 ### 💬 How about we get in touch? :D
 
