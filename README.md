@@ -1,5 +1,5 @@
 [![MasterHead](https://i.im.ge/2022/06/27/uu57C8.png)](https://github.com/thalesor)
-- 🎓 I'm a software engineer graduated by Driven Education [Driven](https://driven.com.br) 
+- 🎓 I'm a Full Stack Javascript Developer, graduated by Driven Education [Driven](https://driven.com.br) 
 - 🚀 As a Full Stack javascript developer, i'm ready to challenge myself in creating the most amazing types of websites and social networks for startups or large companies that add value, helping change the world with the use of technology, let's do it together?
 - 💻 I'd like to share some of the cool things i created in the past 9 months or so [here](https://github.com/thalesor?tab=repositories)
 <img align="right" alt="GIF" src="https://c.tenor.com/H3eMT7-xZrsAAAAC/ay-caramba-geez.gif" width="450" height="270" />
