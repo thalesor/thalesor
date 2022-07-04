@@ -1,10 +1,10 @@
 [![MasterHead](https://i.im.ge/2022/06/27/uu57C8.png)](https://github.com/thalesor)
-- 🎓 I'm a Full Stack Javascript Developer, graduated by Driven Education [Driven](https://driven.com.br) 
-- 🚀 As a Full Stack javascript developer, i'm ready to challenge myself in creating the most amazing types of websites and social networks for startups or large companies that add value, helping change the world with the use of technology, let's do it together?
-- 💻 I'd like to share some of the cool things i created in the past 9 months or so [here](https://github.com/thalesor?tab=repositories)
+- 🎓 Sou um desenvolvedor Full Stack, baseado em Javascript, graduado pela Driven Education [Driven](https://driven.com.br) 
+- 🚀 Como um desenvolvedor Full Stack eu estou preparado para assumir o desafio de criar os mais incríveis sites e redes sociais junto a startups ou grandes companhias que adicionam valor tecnológico, ajudando a mudar o mundo com o uso da tecnologia, vamos fazer isso juntos?
+- 💻 EU gostaria de compartilhar com você algumas das coisas legais que venho criando nos últimos 9 meses [aqui](https://github.com/thalesor?tab=repositories)
 <img align="right" alt="GIF" src="https://c.tenor.com/H3eMT7-xZrsAAAAC/ay-caramba-geez.gif" width="450" height="270" />
 
-### 💬 How about we get in touch? :D
+### 💬 Que tal entrarmos em contato? :D
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thales-ruano/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thalesruanodev@gmail.com)
