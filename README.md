@@ -1,14 +1,13 @@
 [![MasterHead](https://i.im.ge/2022/06/27/uu57C8.png)](https://github.com/thalesor)
 - 🎓 Sou um desenvolvedor Full Stack, baseado em Javascript, graduado pela Driven Education [Driven](https://driven.com.br) 
 - 🚀 Como um desenvolvedor Full Stack eu estou preparado para assumir o desafio de criar os mais incríveis sites e redes sociais junto a startups ou grandes companhias que adicionam valor tecnológico, ajudando a mudar o mundo com o uso da tecnologia, vamos fazer isso juntos?
-- 💻 EU gostaria de compartilhar com você algumas das coisas legais que venho criando nos últimos 9 meses [aqui](https://github.com/thalesor?tab=repositories)
-<img align="right" alt="GIF" src="https://c.tenor.com/H3eMT7-xZrsAAAAC/ay-caramba-geez.gif" width="450" height="270" />
+- 💻 Eu gostaria de compartilhar com você algumas das coisas legais que venho criando nos últimos 9 meses [aqui](https://github.com/thalesor?tab=repositories)
+
 
 ### 💬 Que tal entrarmos em contato? :D
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thales-ruano/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thalesruanodev@gmail.com)
-
 
 ### 🛠️  **Ferramentas:**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -48,6 +47,8 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+<img align="right" alt="GIF" src="https://c.tenor.com/H3eMT7-xZrsAAAAC/ay-caramba-geez.gif" width="100%" height="300" />
 
  <h3 align="center">
   📈💻  Github Analytics
