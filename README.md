@@ -46,7 +46,6 @@
 ### 🌐  **O que utilizo para fazer deploy:** 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <img align="right" alt="GIF" src="https://c.tenor.com/H3eMT7-xZrsAAAAC/ay-caramba-geez.gif" width="100%" height="300" />
 
